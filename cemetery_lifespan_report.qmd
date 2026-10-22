@@ -108,12 +108,9 @@ csl: newphytologist.csl
 
 \noindent
 {\small
-Josimar Ramos\textsuperscript{1,*}
+Josimar Ramos\textsuperscript
 }
 
-```{r}
-
-```
 \vspace{0.08in}
 
 % Structured abstract
