@@ -1,7 +1,7 @@
 ---
-title: ""
-author: ""
-date: ""
+title: "Cemetary Lifespan Report"
+author: "Joe Ramos"
+date: "10/15/2026"
 format:
   pdf:
     pdf-engine: xelatex
