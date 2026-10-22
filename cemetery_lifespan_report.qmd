@@ -165,7 +165,7 @@ Josimar Ramos\textsuperscript{1,*}
 
 \noindent
 {\scriptsize
-\textsuperscript{*}Correspondence: bRamos@valdosta.edu\\
+\textsuperscript{*}Correspondence: jtramos@valdosta.edu\\
 \textsuperscript{1}Department of Biology, Valdosta State University,
 Valdosta, Georgia, USA\\
 Ecology and Evolution, BIOL 3250, Section B
@@ -221,9 +221,9 @@ Write each hypothesis before interpreting the figures. State the expected direct
 
 # Results
 
-The summary table in @fig-summary shows substantial differences in recorded lifespan by sex in this sample. Males had a mean lifespan of 62.2 years (SD = ; n = 3), compared with 71.1 years (SD = 7.1; n = 3) for females. The marital-status breakdown is more tentative because each subgroup contains only one or two records. Among males, the two married individuals had a mean lifespan of 70.5 years (SD = 6.4), while the one unmarried individual lived 36 years. Among females, the one married individual lived 36 years, compared with a mean of 26.5 years (SD = 6.4) for the two unmarried individuals. These small subgroup sizes make the values descriptive; they do not support broad conclusions about sex or marital status.
+The summary table in @fig-summary shows substantial differences in recorded lifespan by sex in this sample. Males had a mean lifespan of 62.2 years (SD =23 ; n = 410), compared with 71.1 years (SD = 21.9; n = 342) for females.
 
-![Summary of lifespan by sex and by marrital status for each sex.](lifespan_tables/combined_tables.png){#fig-summary width=90% fig-pos="t" fig-env="figure*"}
+![Summary of lifespan by sex](lifespan_tables/combined_tables.png){#fig-summary width=90% fig-pos="t" fig-env="figure*"}
 
 The sex-specific survivorship curves in @fig-sex show a different pattern: the plotted means are 61.1 years for males and 57.3 years for females. The male curve remains higher through much of the earlier and middle lifespan, while the female curve reaches the 50% survival point later. The curves are close and change relative position, so the figure suggests that the sex difference depends on which part of the lifespan distribution is considered. The median markers indicate where each group’s observed curve reaches 50% surviving; they are distinct from the mean values shown in the legend.
 
